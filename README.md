@@ -1,1 +1,1 @@
-# Becoming-a-Salesforce-Certified-Technical-Architect
+# Becoming a Salesforce Certified Technical Architect
